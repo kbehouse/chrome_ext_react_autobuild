@@ -1,0 +1,14 @@
+{
+  "name": "Chrome Ext. Test boileplate",
+  "browser_action": {
+    "default_title": "Test boileplate",
+    "default_popup": "index.html",
+    "default_icon": "logo-small.png"
+  },
+  "icons": {
+    "128": "logo-small.png"
+  },
+  "manifest_version": 2,
+  "permissions": ["tabs", "storage"],
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}
