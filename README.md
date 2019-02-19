@@ -22,4 +22,4 @@ The simple extension is integrated by the following repos:
 
 1. [chrome-extension-webpack-boilerplate](https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate/tree/react)
 for autobuild
-2. [tmp-bookmark] (https://github.com/nomuyoshi/tmp-bookmark) for simple react
+2. [tmp-bookmark](https://github.com/nomuyoshi/tmp-bookmark) for simple react
